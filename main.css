@@ -192,6 +192,9 @@ img{
     background-size: cover;
     position: top center;
     z-index: 1;
+	height: 75%;
+    width: 100%;
+	
 }
 #PARTNERSHIPS::after{
     content: "";
