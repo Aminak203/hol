@@ -187,7 +187,8 @@ img{
     z-index: 1;
 }
 #PARTNERSHIPS{
-background-image: url('In partnership with.png');
+	background-color: rgb(0, 0, 0);
+//background-image: url('In partnership with.png');
     background-size: cover;
     position: top center;
     z-index: 1;
