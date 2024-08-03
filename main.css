@@ -192,6 +192,17 @@ background-image: url('In partnership with.png');
     position: top center;
     z-index: 1;
 }
+#PARTNERSHIPS::after{
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 75%;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    opacity: .3;
+    z-index: -1;
+}
 #hero::after{
     content: "";
     position: absolute;
